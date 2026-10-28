@@ -1,0 +1,17 @@
+{
+ "name": "Astronomy: Earth, Moon, and Sky (OER module)",
+ "short_name": "Astronomy: Earth, Moon, ",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#1f5fa8",
+ "icons": [
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any"
+  }
+ ]
+}
